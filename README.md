@@ -1,1 +1,1 @@
-# Aerofit : Descriptive Statistics & Probability
+# Aerofit Casestudy : Descriptive Statistics & Probability
