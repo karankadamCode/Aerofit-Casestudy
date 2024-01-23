@@ -1,1 +1,2 @@
 # Aerofit Casestudy : Descriptive Statistics & Probability
+The market research team at AeroFit is seeking to enhance customer recommendations for their range of treadmills by identifying distinct characteristics within their target audience. The objective is to create detailed customer profiles for each AeroFit treadmill product, leveraging descriptive analytics and contingency tables. By exploring differences in customer characteristics across products, the team aims to provide more personalized recommendations to new customers.
